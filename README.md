@@ -24,5 +24,37 @@ This project explores the use of machine learning to predict maternal health ris
 
 ---
 
-## 📁 Repository Structure
 
+---
+
+## 📊 Dataset Overview
+
+The dataset includes anonymized health data from 1,014 pregnant women with the following features:
+
+- **Age**
+- **Blood Pressure**
+- **Temperature**
+- **Heart Rate**
+- **Blood Glucose**
+- **Risk Label**: `low`, `mid`, `high`
+
+---
+
+## 🚀 Getting Started
+
+### Dependencies
+
+- Python 3.8+
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- catboost
+- matplotlib
+- seaborn
+- jupyter (optional)
+
+
+Malde, A.; Prabhu, V.G.; Banga, D.; Hsieh, M.; Renduchintala, C.; Pirrallo, R. 
+A Machine Learning Approach for Predicting Maternal Health Risks in Lower-Middle-Income Countries Using Sparse Data and Vital Signs. 
+Future Internet 2025, 17, 190. https://doi.org/10.3390/fi17050190
